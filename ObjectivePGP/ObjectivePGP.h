@@ -13,7 +13,6 @@ FOUNDATION_EXPORT double ObjectivePGPVersionNumber;
 //! Project version string for ObjectivePGP.
 FOUNDATION_EXPORT const unsigned char ObjectivePGPVersionString[];
 
-#import <ObjectivePGP/PGPBigNum.h>
 #import <ObjectivePGP/PGPMacros.h>
 #import <ObjectivePGP/PGPTypes.h>
 #import <ObjectivePGP/ObjectivePGPObject.h>
