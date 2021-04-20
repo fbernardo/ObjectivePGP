@@ -87,7 +87,7 @@
 		7537A6B31F0D739A00892829 /* PGPFoundation.h in Headers */ = {isa = PBXBuildFile; fileRef = 758514EA1EDF09C400CB313F /* PGPFoundation.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		7537A6B41F0D739A00892829 /* PGPTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 759DBA151915BC0400305549 /* PGPTypes.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7537A6B51F0D739A00892829 /* PGPBigNum+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 7547A6CA1F0080CF002C2145 /* PGPBigNum+Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		7537A6B61F0D739A00892829 /* PGPBigNum.h in Headers */ = {isa = PBXBuildFile; fileRef = 7547A6C61F007EF6002C2145 /* PGPBigNum.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		7537A6B61F0D739A00892829 /* PGPBigNum.h in Headers */ = {isa = PBXBuildFile; fileRef = 7547A6C61F007EF6002C2145 /* PGPBigNum.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7537A6CA1F0D739A00892829 /* PGPMPI.h in Headers */ = {isa = PBXBuildFile; fileRef = 759DBA161915CBDF00305549 /* PGPMPI.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		7537A6CB1F0D739A00892829 /* PGPFingerprint.h in Headers */ = {isa = PBXBuildFile; fileRef = 7562858C19239F1B00127E24 /* PGPFingerprint.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7537A6CC1F0D739A00892829 /* PGPS2K.h in Headers */ = {isa = PBXBuildFile; fileRef = 75DA135C191AE1D6004C9C76 /* PGPS2K.h */; settings = {ATTRIBUTES = (Private, ); }; };
