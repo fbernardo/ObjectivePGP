@@ -18,6 +18,7 @@
 #import "NSMutableData+PGPUtils.h"
 #import "PGPMacros+Private.h"
 #import "PGPLogging.h"
+#import "PGPPacketFactory.h"
 
 #import <CommonCrypto/CommonCrypto.h>
 #import <CommonCrypto/CommonCryptor.h>

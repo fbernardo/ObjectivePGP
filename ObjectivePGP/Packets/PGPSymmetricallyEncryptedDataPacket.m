@@ -16,6 +16,7 @@
 #import "PGPCompressedPacket.h"
 #import "NSArray+PGPUtils.h"
 #import "PGPFoundation.h"
+#import "PGPPacketFactory.h"
 
 #import <CommonCrypto/CommonCrypto.h>
 #import <CommonCrypto/CommonCryptor.h>

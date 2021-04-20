@@ -25,8 +25,6 @@ FOUNDATION_EXPORT const unsigned char ObjectivePGPVersionString[];
 #import <ObjectivePGP/NSArray+PGPUtils.h>
 #import <ObjectivePGP/PGPUserIDPacket.h>
 #import <ObjectivePGP/PGPSymetricKeyEncryptedSessionKeyPacket.h>
-#import <ObjectivePGP/PGPSecretKeyPacket.h>
-#import <ObjectivePGP/PGPPublicKeyPacket.h>
 #import <ObjectivePGP/PGPPublicSubKeyPacket.h>
 #import <ObjectivePGP/PGPUserAttributeImageSubpacket.h>
 #import <ObjectivePGP/NSData+compression.h>
@@ -34,11 +32,9 @@ FOUNDATION_EXPORT const unsigned char ObjectivePGPVersionString[];
 #import <ObjectivePGP/PGPSecretSubKeyPacket.h>
 #import <ObjectivePGP/NSMutableData+PGPUtils.h>
 #import <ObjectivePGP/PGPUserAttributePacket.h>
-#import <ObjectivePGP/PGPPacket.h>
 #import <ObjectivePGP/NSData+PGPUtils.h>
 #import <ObjectivePGP/PGPUser+Private.h>
 #import <ObjectivePGP/PGPKeyMaterial.h>
-#import <ObjectivePGP/PGPMPI.h>
 #import <ObjectivePGP/PGPLiteralPacket.h>
 #import <ObjectivePGP/PGPTrustPacket.h>
 #import <ObjectivePGP/PGPSignatureSubpacketHeader.h>

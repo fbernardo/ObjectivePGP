@@ -7,7 +7,7 @@
 //
 //  Tag 6
 
-#import "PGPPacketFactory.h"
+#import "PGPPacket.h"
 #import "PGPFingerprint.h"
 #import "PGPKeyID.h"
 #import <Foundation/Foundation.h>

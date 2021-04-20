@@ -20,6 +20,7 @@
 #import "PGPSecretKeyPacket.h"
 #import "PGPMacros+Private.h"
 #import "PGPFoundation.h"
+#import "PGPPacketFactory.h"
 
 #import <CommonCrypto/CommonCrypto.h>
 #import <CommonCrypto/CommonCryptor.h>
